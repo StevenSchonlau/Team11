@@ -31,7 +31,6 @@ kitchen-buddy/
 
 # Getting Started
 ### Prerequisites
-- Node.js (for running the application)
 - A camera-enabled device (for ingredient scanning)
 
 ### Installation

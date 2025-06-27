@@ -25,9 +25,9 @@ Kitchen Buddy helps people cook with confidence. We're focusing on elderly users
 
 ## Project Structure
 kitchen-buddy/
-├── frontend/          # User interface and client-side logic
-├── backend/           # Server-side API and data processing
-└── README.md         # You are here!
+<br>├── frontend/          # User interface and client-side logic
+<br>├── backend/           # Server-side API and data processing
+<br>└── README.md         # You are here!
 
 # Getting Started
 ### Prerequisites
